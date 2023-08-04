@@ -5,6 +5,7 @@ Jogo de ping-pong
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
+Está disponível neste [link](https://leonardomarconi.github.io/archives/ping_pong.html)
 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/conflicting/Web/JavaScript)
 
